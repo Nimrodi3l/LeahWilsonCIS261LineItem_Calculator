@@ -1,4 +1,6 @@
 ##Code tweaked a little to make it exit only after user states they dont want to enter another line.
+##This Code was the subject of a classroom project in which my professor had made a mistake that I corrected,
+##As stated above. 
 import os
 
 # Function to display the heading
